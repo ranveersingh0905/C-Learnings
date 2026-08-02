@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------------------------------------------------------------------------
 Program : Student Grade Calculator
 Author  : Ranveer Singh
-Date    : 31-07-2026
+Date    : 02-08-2026
 Purpose : Calculating grade student by taking marks as input from user by using if-else statement
 ----------------------------------------------------------------------------------------------------------------------------------- 
 */
@@ -63,6 +63,5 @@ int main()
         printf("\n Your grade is F \n");
     }
 
-
-
-    }
+    return 0;
+}
